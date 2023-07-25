@@ -21,3 +21,15 @@ Generatore di “nomi cognomi” casuali: il Grande Gatsby ha una lista di nomi 
 - creo una lista di nomi
 - creo una lista di cognomi
 - prendo casualmente un nome e un cognome dalle liste e li metto insieme
+
+# SNACK 3
+
+## CONSEGNA
+
+Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari
+
+### svolgimento
+
+- Creo un array di numeri interi
+- seleziono solo quelli in posizione dispari
+- li sommo
